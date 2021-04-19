@@ -1,0 +1,14 @@
+{
+    "url": "https://technologi.herokuapp.com/",
+    "secret": "0dce7271-e65f-4910-9ee0-3830dc0f5486",
+    "database": "mongo",
+    "port": "4567",
+    "mongo": {
+        "host": "bsdkzdimfhi89dw-mongodb.services.clever-cloud.com",
+        "port": "27017",
+        "username": "u6dcmgac6zgkknolxsri",
+        "password": "1oBR8sA78uUPLDDMpbul",
+        "database": "bsdkzdimfhi89dw",
+        "uri": ""
+    }
+}
